@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Project for storing Postman tests",
   "scripts": {
-    "api-test-production": "newman run webtestpostman.json
+    "api-test-production": "newman run webtestpostman.json"
   },
   "author": "Aldrin Delarea"
 }
