@@ -5,5 +5,8 @@
   "scripts": {
     "api-test-production": "newman run webtestpostman.json"
   },
-  "author": "Aldrin Delarea"
+  "author": "Aldrin Delarea",
+  "dependencies": {
+    "newman": "^4.3.1"
+  }
 }
